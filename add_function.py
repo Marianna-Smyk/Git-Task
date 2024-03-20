@@ -1,4 +1,13 @@
 def add_2(number):
+    """
+    Add 2 to the given number.
+
+    Args:
+        number (int): The number to which 2 will be added.
+
+    Returns:
+        int: The result of adding 2 to the input number.
+    """
     number += 2
 
     return number
