@@ -1,7 +1,7 @@
-def add_2(var_num):
-    var_num += 2
+def add_2(number):
+    number += 2
 
-    return var_num
+    return number
 
 test_1 = add_2(-5)
 test_2 = add_2(13)
